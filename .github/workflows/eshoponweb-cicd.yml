@@ -9,7 +9,7 @@ env:
   LOCATION: australiasoutheast
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: a9172aea-9f10-4f18-9334-cb25c013e5e0
-  WEBAPP-NAME: az400-webapp-Jordan
+  WEBAPP-NAME: az400-webapp-jordan
 
 
 jobs:
